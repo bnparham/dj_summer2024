@@ -35,3 +35,57 @@ fruits = {
     'Coconut': 88, 
     'Raspberry': 93
 }
+
+
+# print(
+#     list(
+#         map(
+#             lambda x : x ** 2,
+#             numbers
+#         )
+#     )
+# )
+
+
+# print(
+#     dict(
+#         map(
+#             lambda x : (x[1] , x[0]),
+#             fruits.items()
+#         )
+#     )
+# )
+
+
+# print(
+#     list(
+#         filter(
+#             lambda x : x > 5,
+#             numbers
+#         )
+#     )
+# )
+
+
+# print(
+#     dict(
+#         filter(
+#             lambda x : x[1] > 50,
+#             fruits.items()
+#         )
+#     )
+# )
+
+
+# print(
+#     dict(
+#         filter(
+#             lambda x : x[0].lower().startswith('a'),
+#             fruits.items()
+#         )
+#     )
+# )
+
+
+
+
